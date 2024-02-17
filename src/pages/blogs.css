@@ -1,0 +1,29 @@
+/* Certificates.css */
+.certificates {
+    padding: 20px;
+    text-align: center;
+    overflow-y: none;
+  }
+  
+  .certificate-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .certificate {
+    width: 250px;
+  }
+  
+  .certificate img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .certificate p {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  

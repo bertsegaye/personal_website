@@ -1,0 +1,41 @@
+img{
+  float: left;
+}
+.profile1{
+    margin-left: 5rem;
+    margin-right: 3rem;
+    max-width: 30%;
+    height: auto; 
+    border-radius: 5%; 
+    border: 0.1rem solid black;
+}
+.profile2{
+  margin-left: 5rem;
+  margin-right: 3rem;
+  max-width: 30%;
+  height: auto; 
+  border-radius: 5%; 
+  border: 0.1rem solid black;
+}
+.imagecontainer {
+  
+    position: relative;
+   /* Make the container relatively positioned */
+  }  
+  .textcontainer {
+    position: absolute;
+    top: 30rem;
+    max-width: 100%;
+    color: blue;
+    font-size: 1rem;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    left: 15rem; /* Adjust the distance from the image */
+    transform: translateY(-50%);
+  }
+  div.main div.text, div.photo{
+    display: block;
+  }
+  .main{
+    display: inline-block;
+  }

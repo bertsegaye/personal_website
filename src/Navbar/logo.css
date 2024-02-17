@@ -1,0 +1,18 @@
+.profile{
+    width: 3.2rem;
+    height: auto; 
+    border-radius: 90%; 
+    
+}
+/* In your CSS file */
+.image-container {
+    position: relative; /* Make the container relatively positioned */
+  }  
+  .text-container {
+    position: absolute;
+    top: 2rem;
+    color: blue;
+    font-size: 1rem;
+    left: 60px; /* Adjust the distance from the image */
+    transform: translateY(-50%);
+  }
