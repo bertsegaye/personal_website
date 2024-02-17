@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bertsegaye.github.io/personal_website/static/css/main.e1e81d48.css",
+    "main.js": "/bertsegaye.github.io/personal_website/static/js/main.ff385f4f.js",
+    "index.html": "/bertsegaye.github.io/personal_website/index.html",
+    "main.e1e81d48.css.map": "/bertsegaye.github.io/personal_website/static/css/main.e1e81d48.css.map",
+    "main.ff385f4f.js.map": "/bertsegaye.github.io/personal_website/static/js/main.ff385f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e81d48.css",
+    "static/js/main.ff385f4f.js"
+  ]
+}
